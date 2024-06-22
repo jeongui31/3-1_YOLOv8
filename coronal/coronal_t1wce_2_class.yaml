@@ -1,0 +1,8 @@
+path: /home/under1/Detect/dataset/coronal/
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+nc: 2
+names: ['negative','positive']
