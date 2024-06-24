@@ -1,0 +1,8 @@
+path: /home/under1/Detect/dataset/sagittal/
+train: images/sagittal_train_CLAHE
+val: images/val
+test: images/test
+
+# Classes
+nc: 2
+names: ['negative','positive']

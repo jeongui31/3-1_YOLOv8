@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8n.pt
-data: sagittal_t1wce_2_class.yaml
+data: CLAHE.yaml
 epochs: 200
 time: null
 patience: 100
