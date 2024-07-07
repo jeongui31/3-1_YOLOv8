@@ -1,7 +1,7 @@
-path: /home/under1/Detect/dataset/coronal/
+path: /home/under1/Detect/jeongui/coronal/
 train: images/coronal_train_CLAHE
-val: images/val
-test: images/test
+val: images/coronal_val_CLAHE
+test: images/coronal_test_CLAHE
 
 # Classes
 nc: 2
