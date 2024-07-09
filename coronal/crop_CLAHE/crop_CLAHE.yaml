@@ -1,0 +1,8 @@
+path: /home/under1/Detect/jeongui/coronal/crop_CLAHE
+train: images/train_crop_CLAHE
+val: images/val_crop_CLAHE
+test: images/test_crop_CLAHE
+
+# Classes
+nc: 2
+names: ['negative','positive']
