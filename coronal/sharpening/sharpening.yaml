@@ -1,0 +1,8 @@
+path: /home/under1/Detect/jeongui/coronal/sharpening/
+train: images/train_sharp
+val: images/val_sharp
+test: images/test_sharp
+
+# Classes
+nc: 2
+names: ['negative','positive']

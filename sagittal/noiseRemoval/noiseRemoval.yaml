@@ -1,0 +1,8 @@
+path: /home/under1/Detect/jeongui/sagittal/noiseRemoval/
+train: images/train_noiseRemoval
+val: images/val_noiseRemoval
+test: images/test_noiseRemoval
+
+# Classes
+nc: 2
+names: ['negative','positive']
