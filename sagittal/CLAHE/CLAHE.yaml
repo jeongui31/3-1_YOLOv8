@@ -1,7 +1,7 @@
-path: /home/under1/Detect/jeongui/sagittal/
-train: images/sagittal_train_CLAHE
-val: images/sagittal_val_CLAHE
-test: images/sagittal_test_CLAHE
+path: /home/under1/Detect/jeongui/sagittal/CLAHE/
+train: images/train
+val: images/val
+test: images/test
 
 # Classes
 nc: 2

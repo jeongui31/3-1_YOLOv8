@@ -1,0 +1,64 @@
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/67 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/104.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/79 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/67 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/76 (10).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/84 (4).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/73 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/62 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/72 (9).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/78 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/61 (4).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/63.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/89 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/118.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/76 (8).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/72 (11).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/74 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/68 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/67 (7).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/80 (7).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/73.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/76 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/92.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/85.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/62 (9).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/82 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/112.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/63 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/76 (11).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/63 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/61.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/94 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/94.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/76 (9).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/61 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/83 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/92 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/91 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/85 (4).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/79 (10).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/64 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/79 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/62.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/65 (7).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/69.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/68 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/67 (10).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/62 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/70 (7).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/74 (11).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/125.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/80 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/91 (6).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/88.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/96 (4).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/80 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/64 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/66 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/74 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/86.jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/70 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/87 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/93 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal/cross_data/images/82.jpg

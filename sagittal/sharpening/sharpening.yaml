@@ -1,7 +1,7 @@
 path: /home/under1/Detect/jeongui/sagittal/sharpening/
-train: images/train_sharp
-val: images/val_sharp
-test: images/test_sharp
+train: images/train
+val: images/val
+test: images/test
 
 # Classes
 nc: 2

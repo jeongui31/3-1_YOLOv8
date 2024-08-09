@@ -1,0 +1,7 @@
+names:
+- negative
+- positive
+path: kfold_sagittal
+test: /home/under1/Detect/jeongui/cross_val/sagittal/yolo_data/images/test
+train: kfold_sagittal/train_3.txt
+val: kfold_sagittal/val_3.txt

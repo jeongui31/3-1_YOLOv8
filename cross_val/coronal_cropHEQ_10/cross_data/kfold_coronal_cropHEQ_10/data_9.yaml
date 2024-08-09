@@ -1,0 +1,7 @@
+names:
+- negative
+- positive
+path: kfold_coronal_cropHEQ_10
+test: /home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/yolo_data/images/test
+train: kfold_coronal_cropHEQ_10/train_9.txt
+val: kfold_coronal_cropHEQ_10/val_9.txt

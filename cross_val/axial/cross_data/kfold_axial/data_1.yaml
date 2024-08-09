@@ -1,0 +1,7 @@
+names:
+- negative
+- positive
+path: kfold_axial
+test: /home/under1/Detect/jeongui/cross_val/axial/yolo_data/images/test
+train: kfold_axial/train_1.txt
+val: kfold_axial/val_1.txt

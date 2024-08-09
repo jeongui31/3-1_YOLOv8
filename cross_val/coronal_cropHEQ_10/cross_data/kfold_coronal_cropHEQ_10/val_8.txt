@@ -1,0 +1,31 @@
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/87.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/64 (8).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/70.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/76 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/95 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/62 (13).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/62 (14).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/98.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/115.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/95.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/93 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/104 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/102 (4).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/75 (10).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/62 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/77 (5).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/90.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/77 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/71 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/89 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/67.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/86 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/91 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/78 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/79 (8).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/62 (7).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/62 (3).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/111.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/82 (2).jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/74.jpg
+/home/under1/Detect/jeongui/cross_val/coronal_cropHEQ_10/cross_data/images/66 (2).jpg

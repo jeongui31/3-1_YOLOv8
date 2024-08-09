@@ -1,0 +1,7 @@
+path: /home/under1/Detect/jeongui/no_val/coronal/
+train: images/train
+val: images/test
+
+# Classes
+nc: 2
+names: ['negative','positive']

@@ -1,7 +1,7 @@
-path: /home/under1/Detect/jeongui/axial/
-train: images/axial_train_CLAHE
-val: images/axial_val_CLAHE
-test: images/axial_test_CLAHE
+path: /home/under1/Detect/jeongui/axial/CLAHE/
+train: images/train_CLAHE
+val: images/val_CLAHE
+test: images/test_CLAHE
 
 # Classes
 nc: 2

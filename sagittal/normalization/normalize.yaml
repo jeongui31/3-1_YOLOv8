@@ -1,8 +1,0 @@
-path: /home/under1/Detect/jeongui/sagittal/
-train: images/train_normal_CLAHE
-val: images/val_normal_CLAHE
-test: images/test_normal_CLAHE
-
-# Classes
-nc: 2
-names: ['negative','positive']

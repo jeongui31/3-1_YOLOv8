@@ -1,0 +1,7 @@
+path: /home/under1/Detect/jeongui/no_val/coronal_crop_HEQ/
+train: images/cropnHEQ_train_val
+val: images/cropnHEQ_test
+
+# Classes
+nc: 2
+names: ['negative','positive']

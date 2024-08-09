@@ -1,0 +1,7 @@
+names:
+- negative
+- positive
+path: kfold_coronal_10
+test: /home/under1/Detect/jeongui/cross_val/coronal_10/yolo_data/images/test
+train: kfold_coronal_10/train_5.txt
+val: kfold_coronal_10/val_5.txt

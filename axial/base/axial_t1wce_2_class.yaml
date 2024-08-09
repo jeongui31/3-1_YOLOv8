@@ -1,4 +1,4 @@
-path: /home/under1/Detect/dataset/axial/
+path: /home/under1/Detect/jeongui/axial/base/
 train: images/train
 val: images/val
 test: images/test
